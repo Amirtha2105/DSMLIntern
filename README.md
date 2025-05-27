@@ -1,5 +1,4 @@
-# Fraud Detection System
-
+# Fraud Detection System for Financial Transactions 
 This project implements a fraud detection system for financial transactions using machine learning.
 
 ## Problem Statement
