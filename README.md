@@ -1,4 +1,18 @@
-# DSMLIntern
+# Fraud Detection System
 
-Download the Financial Dataset for Fraud Detection
-🔗 https://drive.google.com/file/d/1OnAJXoKKmzdEbw8PiJ4yytJYtvfXHXTG/view?usp=sharing
+This project implements a fraud detection system for financial transactions using machine learning.
+
+## Problem Statement
+
+Financial institutions need to accurately and efficiently identify fraudulent transactions in real-time to minimize losses.
+
+## Tech Stack
+
+-   Python
+-   Pandas, NumPy
+-   Scikit-learn
+-   XGBoost
+-   Matplotlib, Seaborn
+-   Streamlit
+
+## Project Structure
